@@ -1,1 +1,4 @@
 # Kaggle-Challenge-NFL-1st-and-Future-Impact-Detection
+For this project we decided to participate in a computer vision Kaggle challange, the National Football League (NFL) along with Amazon Web Services (AWS) are trying to develop the "Digital Athlete" a virtual representation of a composite NFL player that the NFL can use to model game scenarios to try to better predict and prevent player injuries. For this, The NFL is actively addressing the need for a computer vision system to detect on-field helmet impacts as part of the "Digital Athlete" platform.
+
+The objective is to develop a computer vision model that automatically detects helmet impacts that occur on the field by using labeled video from the sidelines and end zones, and player tracking data. This information is sourced from the NFL's Next Gen Stats (NGS) system, which documents the position, speed, acceleration, and orientation for every player on the field during NFL games.
